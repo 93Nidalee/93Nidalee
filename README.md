@@ -1,7 +1,7 @@
-<div> 
-  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, World </h1>  
+
+  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, World </h1>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 김민주라고 합니다 🍀 </div> 
-  </div>
+
   <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> EDUCATION </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
@@ -49,3 +49,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=93Nidalee)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=93Nidalee)](https://github.com/anuraghazra/github-readme-stats)
+
+![Image](https://github.com/user-attachments/assets/7a78bde6-bc52-4955-9381-9e4298decfeb)
