@@ -1,6 +1,5 @@
 
-  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello, World </h1>
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 김민주라고 합니다 🍀 </div> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D662&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 김민주라고 합니다 🍀 </div> 
 
   <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> EDUCATION </h2>  
